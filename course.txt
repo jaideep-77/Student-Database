@@ -1,0 +1,146 @@
+EECS1001
+Research Directions in Computing
+W
+16:30
+17:30
+VC 135
+
+EECS1021
+OOP from Sensors to Actuators 
+MWF
+10:30
+11:30
+ACE 009
+
+EECS1022
+Programming for Mobile Computing
+MW
+17:30
+19:00
+CLH A
+
+EECS2001
+Intro to the Theory of Computation
+MW
+14:30
+16:00
+CLH M
+
+EECS2011
+Fundamentals of Data Structures
+TR
+13:00
+14:30
+LSB 106
+
+EECS2021
+Computer Organization
+MW
+17:30
+19:00
+LAS B
+
+EECS2031
+Software Tools
+T
+16:30
+18:30
+SLH E
+  
+EECS2200
+Electrical Circuits
+W
+11:30
+13:30
+CB 120
+
+EECS3101
+Design and Analysis of Algorithms
+MW
+11:30
+13:00
+SLH C
+
+EECS3213
+Communication Networks
+MW
+17:30
+19:00
+BC 215
+
+EECS3214
+Computer Network Protocols
+TR
+10:00
+11:30
+TEL 1005
+
+EECS3215
+Embedded Systems and Design protocol
+TR
+16:00
+17:30
+CB 120
+
+EECS3221
+Operating System Fundamentals
+TR
+14:30
+16:00
+HNE B15
+
+EECS3311
+Software Design
+MW
+16:00
+17:30
+R N203
+
+EECS3401
+Functional & Logic Programming
+MW
+16:00
+17:30
+HNE B15
+
+EECS3421
+Introduction to Database Systems
+TR
+17:30
+19:00
+HNE B15
+
+EECS4101
+Advanced Data Structures
+MW
+16:00
+17:30
+CLH M
+
+EECS4111
+Automata and Computability
+MW
+11:30
+13:00
+CB 122
+
+EECS4215
+Mobile Communications Networks
+TR
+17:30
+19:00
+CB 122
+
+EECS4431
+Advanced Topics in 3D
+TR
+14:30
+16:00
+CB 120
+
+EECS4471
+Introduction to Virtual Reality
+MW
+10:00
+11:00
+CB 122
